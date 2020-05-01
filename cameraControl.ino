@@ -1,5 +1,5 @@
 /*
-  Send a Start/Sop Recording command to the LANC port of a video camera.
+  Send a Start/Stop Recording command to the LANC port of a video camera.
   Tested with a Canon XF300 camcorder
   This code requires a simple interface see http://micro.arocholl.com
   Feel free to use this code in any way you want.
